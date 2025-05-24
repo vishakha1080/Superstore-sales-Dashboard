@@ -1,1 +1,1 @@
-# Superstore-sales-Dashboard
+This project presents an interactive Power BI dashboard that analyzes and visualizes the sales performance of a fictional Superstore. It aims to support data-driven business planning and performance monitoring. Main objective is to build a visually intuitive and insight-rich time-series sales dashboard that highlights trends, key performance indicators (KPIs), and actionable insights to assist management in decision-making.
